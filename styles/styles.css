@@ -222,3 +222,10 @@ header {
 .contact:hover {
   cursor: pointer;
 }
+
+.blue-box:first-child {
+  border-bottom-left-radius: 10px;
+}
+.blue-box:last-child {
+  border-bottom-right-radius: 10px;
+}
