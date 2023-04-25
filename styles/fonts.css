@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "brandon";
+  src: url(../fonts/brandon-grotesque-black-58a8a3e824392.otf)
+    format("truetype");
+}
+@font-face {
+  font-family: "tisa";
+  src: url(../fonts/FontsFree-Net-Tisa-Sans-Pro-Regular.ttf) format("truetype");
+}
