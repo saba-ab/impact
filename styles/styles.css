@@ -6,6 +6,7 @@
 
 body {
   background-color: #f7f7f7;
+  overflow-x: hidden;
 }
 .logo img {
   width: 27px;
@@ -334,7 +335,7 @@ header {
   width: 320px;
   height: 460px;
   background-color: #ffffff;
-  /* display: inline-block; */
+  box-shadow: 0px 4px 6px #00000029;
 }
 .block-img {
   width: 100%;
